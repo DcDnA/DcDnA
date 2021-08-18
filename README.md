@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DcDnA
-- 👀 I’m interested in working on Payment handlers and running acctacks
+- 👀 I’m interested in working on Payment handlers and running attacks
 - 🌱 I’m currently learning Global listners
 - 💞️ I’m looking to collaborate on CA Certs and experation 
 - 📫 raiderknight@outlook.com
